@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name atmega32u4-ep)(type Legacy)(uri ${KIPRJMOD}/libs/atmega32u4-ep.lib)(options "")(descr ""))
+  (lib (name matrix)(type Legacy)(uri ${KIPRJMOD}/libs/ibs/Driver_LED.lib)(options "")(descr ""))
+  (lib (name 2021-01-13_08-23-33)(type Legacy)(uri ${KIPRJMOD}/libs/2021-01-13_08-23-33.lib)(options "")(descr ""))
+  (lib (name akn_misc)(type Legacy)(uri ${KIPRJMOD}/libs/akn_misc.lib)(options "")(descr ""))
+)
